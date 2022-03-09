@@ -18,6 +18,8 @@ If software is inconsistent, including defects, or has logic faults, it becomes 
 2. Performance Problems
 Poor coding has a negative impact on the system usability. The performance difficulties include a variety of aspects such as how the user interacts with the system, server response issues, code reusability and flow, and so on. These challenges can be readily solved when software code standards are applied, resulting in a secure system with minimal or no speed issues.
 
+For example Epic Games are a leading interactive gaming company which provide 3D engine technology. Epic Games follow some simple coding standards which has helped the company to stay productive and to use their time wisely. Here we will discuss a few of their coding standards which they follow. Firstly, any file which is provided by Epic must contain a copy right notice on the first line of every file, which is provided by the company. When it comes to naming conventions, all code and comments must be written in American English. The first letter of every word must be capalised, boolean words must begin with a small letter b followed by a capital, variable names must only be noun words and lastly methods must be words which are verbs which describe the class. Finally, Comments must be clear and short. Comment must not be negative such as how the method does not work correctly, if a programmer writes a negative comment, they must remove it and correct the bugs which are causing the method to not work correctly.
+
 #What are the advantages of implementing coding standards?
 
 1. Increased Productivity
@@ -29,6 +31,10 @@ IT initiatives frequently fail as a result of issues encountered while developin
 
 3. Minimising Complexity
 When a code is complicated, it is more likely to fall victim to bugs. Coding standards assit in the construction of less complicated software programs, which reduces bugs.
+
+SAP, offer coding standard recommendations online for their customers to follow. These guidelines are in place to guarantee that developers follow a set of establihed guidelines when performing anything. With SAP Commerce Cloud, the code can be structured in a variety of different ways, however if there are no guidelines in place, it will make managing the code a lot harder, and this can effect the process of trying to recruit new progrommers on the team. But by setting these guidelines at the start of the project and ensuring that they are understood by all and followed, this will lean towards reducing coding errors. 
+SAP offer advice on naming conventions, they follow CamelCase scheme. Class names must begin with a captial letter and each word that follows must also be a capital, method names must begin with a small letter followed by upper for the next word, this is the same for the varible names. Classes should end with "Service' or "Facade", which helps determine the type of class. There should be comments throughout the code explaining what methods are doing and what is their purpose. As you can see, coding standards are very important for every company big or small, and using these coding standards can help with a companies overall performance. 
+
 
 #How can you following coding standards?
 
