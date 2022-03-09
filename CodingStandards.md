@@ -18,3 +18,16 @@ If software is inconsistent, including defects, or has logic faults, it becomes 
 2. Performance Problems
 Poor coding has a negative impact on the system usability. The performance difficulties include a variety of aspects such as how the user interacts with the system, server response issues, code reusability and flow, and so on. These challenges can be readily solved when software code standards are applied, resulting in a secure system with minimal or no speed issues.
 
+#What are the advantages of implementing coding standards?
+
+1. Increased Productivity
+Developers frequently invest a significant amount of time correcting code quality issues which might have been avoided. Programming standards and practice guidelines would assit the team in detecting and preventing problems early on. This will improve the software developement process' productivity.
+
+
+2. The likelihood of a project's failure is decreased
+IT initiatives frequently fail as a result of issues encountered while developing software. Many problems and the likelihood of project failure are reduced when code guidelines are followed.
+
+3. Minimising Complexity
+When a code is complicated, it is more likely to fall victim to bugs. Coding standards assit in the construction of less complicated software programs, which reduces bugs.
+
+
