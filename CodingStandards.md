@@ -30,4 +30,20 @@ IT initiatives frequently fail as a result of issues encountered while developin
 3. Minimising Complexity
 When a code is complicated, it is more likely to fall victim to bugs. Coding standards assit in the construction of less complicated software programs, which reduces bugs.
 
+#How can you following coding standards?
 
+1. Comments in the code and code documentation
+When developing code, it is a good idea to leave comments. It aids in the comprehension of your code by other engineers. Every method should begin with a remark describing what the method or function does, as well as its different parameters, return values and flaws. In addition, the comments should explain the function of each the files and also the classes. However even though it is important to include comments in your code, please avoid commenting on obvious pieces of code. GIVE DIAGRAMS HERE
+
+2. Ensuring consistent name schemes
+There are two very popular naming schemes which developers usually follow:
+1. CamelCase - this is a name convention which does not capatise the first letter of the word however it does capalise the second second of the word.
+2. Underscore - using an underscore to seperate two words
+
+It really is up to the programmer to decide on which naming strategy they would like to use, however it is critucal that the naming scheme remains consistent thtough the code
+
+3. Nesting structures with a lot of depth should be minimised
+The code can be really hard to understand if there are too many nesting structures involved, as a result, deeping nesting should be avoided wherever possible
+
+4. Refactor the code
+Refacoring is done to help improve the readability of the code without ever effecting the main functionailities of the code
