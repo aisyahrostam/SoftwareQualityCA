@@ -29,3 +29,22 @@ Code review is a practical and productive way for Software developers to share t
 3. Asynchronous Code review - This type of review is also called a "Tool-assisted code review". During this process, the coder and the reviewer work on the code at separate times. The coder will first complete a coding task on his own and then allow the completed code to be inspected by the reviewer. The reviewer examines the work whenever they're free and will provide constructive comments on necessary changes using a tool. Once the review is finished, the tool will inform the coder of the comments left by the reviewer. The coder follows up by performing the changes advised to improve the code quality. The perk of this approach is that both the coder and reviewer can perform their duty whenever they are available. However, this may be more suitable for projects with longer deadlines.
  
 4. Meeting based code review - This procedure is also known as "Once in a while review", where occasionally during a meeting the whole team is given a rundown and explanation of the code by the developer. The team members will then examine the code to highlight potential problems, provide feedback and offer recommendations to improve the code. This type of review is not common, typically only done when the team is not familiar with code reviews. 
+
+
+
+#Best practices for Code Review
+
+1. Prepare a checklist for Code Review
+Before performing a code review, make sure to prepare a checklist of areas to examine such as code structure, logic, performance and readability etc. This will help you concentrate and make the process more time-efficient.
+ 
+2. Build and Test code
+Ahead of the code review, you should run tests on the code for errors. This will help reduce the time spent on the review.
+ 
+3. 60 minutes Code review session
+For better concentration, you should split code reviews into multiple sessions. Each session should not last longer than 60 minutes. 
+  
+4. 400 Lines each review session
+To ensure the most satisfactory results, you should limit each review to only 400 lines of code or less.  
+ 
+5. Constructive feedback
+When reviewing codes, make sure to provide encouraging and valuable comments on how to improve the quality of the code. Avoid giving harsh and critical feedback. 
