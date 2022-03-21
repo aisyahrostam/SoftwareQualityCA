@@ -1,10 +1,10 @@
-#Coding Review
+## Coding Review
 
 Code review is a process that ensures the completed code by a developer is of good quality and delivers on the expected requirements. The code is inspected by one or a group of developers who are experts in that specific programming language. The reviewer highlights mistakes, bugs, improves the code quality and provides a second opinion on the logic being used.
 
 
 
-#Advantages of Code Reviews
+## Advantages of Code Reviews
 
 1. Increase code quality
 Code reviewing is vital because it helps developers identify existing bugs and architectural mistakes in the early stages of the software development. These reviews also increase the code quality by ensuring that it is readable, reliable, maintainable, portable, reusable and testable.
@@ -20,7 +20,7 @@ Code review is a practical and productive way for Software developers to share t
 
 
 
-#Types of Code Reviews
+## Types of Code Reviews
  
  <br>
  <a>
@@ -52,7 +52,7 @@ Code review is a practical and productive way for Software developers to share t
 
 <br>
 
-#Best practices for Code Review
+## Best practices for Code Review
 
 1. Prepare a checklist for Code Review
 Before performing a code review, make sure to prepare a checklist of areas to examine such as code structure, logic, performance and readability etc. This will help you concentrate and make the process more time-efficient.
@@ -69,5 +69,6 @@ To ensure the most satisfactory results, you should limit each review to only 40
 5. Constructive feedback
 When reviewing codes, make sure to provide encouraging and valuable comments on how to improve the quality of the code. Avoid giving harsh and critical feedback. 
 
-Conclusion
+## Conclusion
+
 Based on the topics discussed above, we can conclude that Code Review is an established and crucial practice in the coding community. It helps developers expand and exchange knowledge with each other. Code review also allows teams to adopt practices that are benefical and time-efficient. The process trains developers, especially junior developers, to have an attentive and critical eye when coding. By eliminating as many errors as possible early on during the development stage, organisations may be able to significantly reduce future expenses and customer issues once the product is released.
