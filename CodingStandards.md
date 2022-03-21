@@ -70,6 +70,7 @@ Refactoring is done to help improve the readability of the code without ever eff
 
 Conclusion
 
+In conclusion, the guidelines of coding standards aid in the creation of an ethical code that is adaptable enough to be employed in various solutions while still being effective enough to satisfy all operational requirements. Coding standards are considered a vital item in programming companies. This is why it is very important for this company to come up with appropriate coding standards which will be followed by all employees in order to make code more understandable across the company, make it easier to maintain, and so on.
 
 References
 
