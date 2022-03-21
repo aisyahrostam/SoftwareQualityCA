@@ -28,6 +28,11 @@ While T-Shirt Sizing can be used to estimate task very quickly and is easy for t
 
 
 ## The Bucket System
+The **Bucket System Technique** is used to deal with a large numbers of items to be estimated with many people, and to get it complete fast. This allows teams to analyse and size stories by relating and assigning each story to pre-defined buckets of complexity.
+
+<img alt="The Bucket System" src="https://architechwpblobstorage.blob.core.windows.net/media/2020/09/Agilebucket-01-1-1-1024x717.png"> </img>
+
+This method allows Scrum Team to quickly cover many items with a similar result to Poker Planning, however, there are issues with this, such as since it quickly gets through the estimation, certain concerns might not be voiced in the process.
 
 
 
