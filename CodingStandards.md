@@ -68,11 +68,11 @@ The code can be really hard to understand if there are too many nesting structur
 4. Refactor the code
 Refactoring is done to help improve the readability of the code without ever effecting the main functionalities of the code
 
-Conclusion
+## Conclusion
 
 In conclusion, the guidelines of coding standards aid in the creation of an ethical code that is adaptable enough to be employed in various solutions while still being effective enough to satisfy all operational requirements. Coding standards are considered a vital item in programming companies. This is why it is very important for this company to come up with appropriate coding standards which will be followed by all employees in order to make code more understandable across the company, make it easier to maintain, and so on.
 
-References
+## References
 
 Coding Standard. (2022). Retrieved 10 March 2022, from https://docs.unrealengine.com/4.27/en-US/ProductionPipelines/DevelopmentSetup/CodingStandard/
 
