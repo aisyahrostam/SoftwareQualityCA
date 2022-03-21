@@ -19,6 +19,11 @@ This is great for ensuring everybody has a comprehensive understanding of the re
 
 
 ## T-Shirt Sizes
+The **T-Shirt Sizes Technique** is intended when estimating a large backlog of items to give a more rough estimate of effort. T-shirt Sizing is about grouping together items of similar size. The size is usually given the same label a t-shirt might have such as extra small, small, medium, large, and extra-large.
+
+<img alt="T-Shirt Sizes" src="https://pmtips.xyz/storage/2020/05/t-shirt-size-effort-estimation.jpg"> </img>
+
+While T-Shirt Sizing can be used to estimate task very quickly and is easy for the team to understand, it does have it's problems as rough estimates can be agreed too quickly and if a deadline cannot be met the team cannot be held accountable as the estitmates are vague.
 
 
 
