@@ -68,3 +68,6 @@ To ensure the most satisfactory results, you should limit each review to only 40
  
 5. Constructive feedback
 When reviewing codes, make sure to provide encouraging and valuable comments on how to improve the quality of the code. Avoid giving harsh and critical feedback. 
+
+Conclusion
+Based on the topics discussed above, we can conclude that Code Review is an established and crucial practice in the coding community. It helps developers expand and exchange knowledge with each other. Code review also allows teams to adopt practices that are benefical and time-efficient. The process trains developers, especially junior developers, to have an attentive and critical eye when coding. By eliminating as many errors as possible early on during the development stage, organisations may be able to significantly reduce future expenses and customer issues once the product is released.
