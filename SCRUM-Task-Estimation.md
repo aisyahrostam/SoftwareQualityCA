@@ -37,6 +37,11 @@ This method allows Scrum Team to quickly cover many items with a similar result 
 
 
 ## Dot Voting
+The **Dot Voting Technique** is an quick and simple way to calculate a small numbers of items. Each team member is alloted a limited number of dots, which they then place on an item to determine its size, with more dots meaning a bigger estimation.
+
+<img alt="Dot Voting" src="https://miro.medium.com/max/1400/0*AHaN2wuvbd19U7iB.jpg"> </img>
+
+While Dot Voting is quick and simple and provides a good visualisation of the tasks and their complexity, it is originally derived from a decision making process, and in turn can be a bit more vague.
 
 
 
