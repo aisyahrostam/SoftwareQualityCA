@@ -68,3 +68,6 @@ Parabol. (n.d.). 8 Agile Estimation Techniques to Try With your Team. Parabol. R
 Sinha, D. (2018, August 31). What are the top 5 Scrum Estimation Techniques? KnowledgeHut. Retrieved March 21, 2022, from https://www.knowledgehut.com/blog/agile/top-5-scrum-estimation-techniques-find-your-best-fit
 
 Tech Agilist. (2020, November 9). Bucket System - Agile Estimation Method. Tech Agilist. Retrieved March 21, 2022, from https://www.techagilist.com/agile/scrum/bucket-system-agile-estimation-method/
+
+Tech Agilist. (2020, November 9). Bucket System - Agile Estimation Method. Tech Agilist. Retrieved March 21, 2022, from https://www.techagilist.com/agile/scrum/bucket-system-agile-estimation-method/
+
