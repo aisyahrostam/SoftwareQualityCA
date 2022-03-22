@@ -66,6 +66,8 @@ It really is up to the programmer to decide on which naming strategy they would 
 3. Nesting structures with a lot of depth should be minimised
 The code can be really hard to understand if there are too many nesting structures involved, as a result, deep nesting should be avoided wherever possible
 
+<img alt="Nested Loops" src="https://runestone.academy/ns/books/published/csjava/_images/nestedloops.png" width="450"> </img>
+
 4. Refactor the code
 Refactoring is done to help improve the readability of the code without ever effecting the main functionalities of the code
 
