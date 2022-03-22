@@ -57,7 +57,7 @@ While the Big/Uncertain/Small Technique for estimation is simple and effective, 
 
 
 ## Conclusion
-
+In conclusion, Task Estimation plays an important role in the iterative development of products following a product backlog.
 
 
 ## References
