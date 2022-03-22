@@ -1,4 +1,4 @@
-#Introduction
+## Introduction
 
 This handbook will explain three main topics, which all companies need to follow in order to reduce failures, reduce time wasted and also improve the overall performance of a company. The topics include:
 1. Task estimation in Scrum
