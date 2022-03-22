@@ -10,7 +10,7 @@ In Task Estimation, User Stories are approved by the Product Owner for the Spint
  5. Big/Uncertain/Small
  
 ## Planning Poker
-The **Planning Poker Technique** involes an agreement from the Scrum Team on the estimations of the User Stories while ensuring everbody has a say. Everybody is given a set of cards with numbers of the Fibonacci sequence on them. The higher the value, the higher the task estimation. When everybody is ready, each team member chooses a card to submit and explains their reasoning, and using the combined perspective of the team, the estimation is agreed upon.
+The **Planning Poker Technique** involes an agreement from the Scrum Team on the estimations of the User Stories while ensuring everbody has a say. Everybody is given a set of cards with numbers of the Fibonacci sequence on them. The higher the value, the higher the task estimation. When everybody is ready, each team member chooses a card to submit and explains their reasoning, and using the combined perspective of the team, the estimation is agreed upon. For example, team members may choose a card with a low number for an item they believe can be completed quickly and the team members can then discuss the item before agreeing on which single card best matches each item.
 
 <p  align="center">
     <img alt="Planning Poker" src="https://blog.boguszewski.net/wp-content/uploads/2017/03/xestymation.png.pagespeed.ic.kqSPl7RUlX.png"> </img>
@@ -19,7 +19,7 @@ The **Planning Poker Technique** involes an agreement from the Scrum Team on the
 This is great for ensuring everybody has a comprehensive understanding of the required work and allowing the team members to express any concerns or doubts they have. However, many find it to be a time consuming process, with people often struggling to reach an agreement in estimation size. The original creator, James Grenning, expressed that you shouldn't spend too much time reaching an agreement, however this often isn't the case.
 
 ## T-Shirt Sizes
-The **T-Shirt Sizes Technique** is intended when estimating a large backlog of items to give a more rough estimate of effort. T-shirt Sizing is about grouping together items of similar size. The size is usually given the same label a t-shirt might have such as extra small, small, medium, large, and extra-large.
+The **T-Shirt Sizes Technique** is intended when estimating a large backlog of items to give a more rough estimate of effort. T-shirt Sizing is about grouping together items of similar size. The size is usually given the same label a t-shirt might have such as extra small, small, medium, large, and extra-large. If, for an item, there is a large difference between the T-Shirt Sizes chosen, team members will explain their choice until they reach an agreement. This repeats until the team has estimated each item.
 
 <p  align="center">
     <img alt="T-Shirt Sizes" src="https://pmtips.xyz/storage/2020/05/t-shirt-size-effort-estimation.jpg"> </img>
@@ -28,7 +28,7 @@ The **T-Shirt Sizes Technique** is intended when estimating a large backlog of i
 While T-Shirt Sizing can be used to estimate task very quickly and is easy for the team to understand, it does have it's problems as rough estimates can be agreed too quickly and if a deadline cannot be met the team cannot be held accountable as the estitmates are vague.
 
 ## The Bucket System
-The **Bucket System Technique** is used to deal with a large numbers of items to be estimated with many people, and to get it complete fast. This allows teams to analyse and size stories by relating and assigning each story to pre-defined buckets of complexity.
+The **Bucket System Technique** is used to deal with a large numbers of items to be estimated with many people, and to get it complete fast. This allows teams to analyse and size stories by relating and assigning each story to pre-defined buckets of complexity. Longer and more challenging items go in higher ranked buckets, while les complex items go in lower ranked buckets.
 
 <p  align="center">
     <img alt="The Bucket System" src="https://architechwpblobstorage.blob.core.windows.net/media/2020/09/Agilebucket-01-1-1-1024x717.png"> </img>
@@ -38,7 +38,7 @@ This method allows Scrum Team to quickly cover many items with a similar result 
 
 
 ## Dot Voting
-The **Dot Voting Technique** is an quick and simple way to calculate a small numbers of items. Each team member is alloted a limited number of dots, which they then place on an item to determine its size, with more dots meaning a bigger estimation.
+The **Dot Voting Technique** is an quick and simple way to calculate a small numbers of items. Each team member is alloted a limited number of dots, which they then place on an item to determine its size, with more dots meaning a bigger estimation. For example, an item which receives fewer dots represents a simpler project task.
 
 <p  align="center">
     <img alt="Dot Voting" src="https://miro.medium.com/max/1400/0*AHaN2wuvbd19U7iB.jpg"> </img>
@@ -47,7 +47,7 @@ The **Dot Voting Technique** is an quick and simple way to calculate a small num
 While Dot Voting is quick and simple and provides a good visualisation of the tasks and their complexity, it is originally derived from a decision making process, and in turn can be a bit more vague.
 
 ## Big/Uncertain/Small
-The **Big/Uncertain/Small Technique** is a very fast method of rough estimation where the Scrum team is required to place the items in one of those categories. Items are quickly marked off as large or small, leaving behind the more complicated items which require more in depth discussion.
+The **Big/Uncertain/Small Technique** is a very fast method of rough estimation where the Scrum team is required to place the items in one of those categories. Items are quickly marked off as large or small. The Scrum Team members can then discuss why they they have assigned that item as big or small task, leaving behind the more complicated items which require more in depth discussion for after. 
 
 <p  align="center">
     <img alt="Big/Uncertain/Small" src="https://www.parabol.co/wp-content/uploads/2021/10/Big-Uncertain-Small-Agile-Estimation-Technique-1.png"> </img>
@@ -57,7 +57,7 @@ While the Big/Uncertain/Small Technique for estimation is simple and effective, 
 
 
 ## Conclusion
-In conclusion, Task Estimation plays an important role in the iterative development of products following a product backlog.
+**In conclusion**, in each Task Estimation technique we have looked at have all, we can see that they all follow similar principles in giving a vote to everybody on the team and having a method to uniformly quantify the estimated effort. The main difference to consider when deciding what method to use is the teams dynamic, such as size and experience. Small teams can afford to spend more time discussing issues in more depth, while larger teams may not have the time due to a higher amount of User Stories to deal with. While most of these method may seem intuitive, there can be a lot of time spent discussing the rules to those not familiar with these techniques, such as how to deal with tasks that receive wide varying estimations, or if someone who is voting doesn't understand the extent of the required complexity. One of the most important aspects of choosing which technique to use is ensuring everybody on the team feels comfortable with the technique and their rules, as to both reduce mistakes and help the process move swiftly.
 
 
 ## References
