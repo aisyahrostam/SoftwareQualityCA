@@ -9,3 +9,8 @@ Our plan for this assignment is to work on our own headings independtly, and the
 When it comes to Github, our plan is to commit our work every 30 mins and to push our work once it is completed and ready to be reviewed by another team member before merging the work together. Also if another team member is stuck or confused with regards to Github, then the team will work together to guide that individual.
 
 Lastly, we will come together before submitting the assignment to ensure all team members are happy with the work which we have completed and we will also do one more quick run through of the assignment to ensure that there are no spelling or grammar mistakes. 
+
+## List of things you would do differently as a team the next time.
+1. Have a better plan on how to use Github
+2. Be more comfortable when using command prompt
+3. Create the files in a development branch before creating new branches, so we're editing the same file
