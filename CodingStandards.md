@@ -53,10 +53,11 @@ When developing code, it is a good idea to leave comments. It aids in the compre
 
 2. Ensuring consistent name schemes
 There are two very popular naming schemes which developers usually follow:
-1. CamelCase - this is a name convention which does not capitalise the first word however it does capitalise the second word.
+
+CamelCase - this is a name convention which does not capitalise the first word however it does capitalise the second word.
 <img alt="CamelCase" src="https://i.ytimg.com/vi/L6STVPh0z_8/maxresdefault.jpg" width="450"> </img>
 
-2. Underscore - using an underscore to separate two words.
+Underscore - using an underscore to separate two words.
 
 <img alt="Underscore" src="https://www.homeandlearn.co.uk/java/images/variables/char_shakespeare.gif" width="450"> </img>
 
