@@ -55,21 +55,30 @@ When developing code, it is a good idea to leave comments. It aids in the compre
 There are two very popular naming schemes which developers usually follow:
 
 CamelCase - this is a name convention which does not capitalise the first word however it does capitalise the second word.
+<p  align="center">
 <img alt="CamelCase" src="https://i.ytimg.com/vi/L6STVPh0z_8/maxresdefault.jpg" width="450"> </img>
+</p>
 
 Underscore - using an underscore to separate two words.
 
+<p  align="center">
 <img alt="Underscore" src="https://www.homeandlearn.co.uk/java/images/variables/char_shakespeare.gif" width="450"> </img>
+</p>
 
 It really is up to the programmer to decide on which naming strategy they would like to use, however it is critical that the naming scheme remains consistent through the code
 
 3. Nesting structures with a lot of depth should be minimised
 The code can be really hard to understand if there are too many nesting structures involved, as a result, deep nesting should be avoided wherever possible
 
+<p  align="center">
 <img alt="Nested Loops" src="https://runestone.academy/ns/books/published/csjava/_images/nestedloops.png" width="450"> </img>
+</p>
 
 4. Refactor the code
 Refactoring is done to help improve the readability of the code without ever effecting the main functionalities of the code
+<p  align="center">
+<img alt="Refactoring" src="https://qph.fs.quoracdn.net/main-qimg-5c0cbe4fe366a30cb862406cdc64324a.webp" width="450"> </img>
+</p>
 
 ## Conclusion
 
